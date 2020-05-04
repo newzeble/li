@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2020-05-04 20:12:57
- * @LastEditTime: 2020-05-05 00:12:43
+ * @LastEditTime: 2020-05-05 00:14:38
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \ACMProject\a.cppssss
@@ -12,7 +12,6 @@
 using namespace std;
 /**
  * @description: 
- * @param {type}asdasd 
  * @return: 
  */
 class Solution {
