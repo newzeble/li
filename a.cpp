@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2020-05-04 20:12:57
- * @LastEditTime: 2020-05-04 23:46:38
+ * @LastEditTime: 2020-05-05 00:02:11
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \ACMProject\a.cpp
@@ -10,7 +10,11 @@
 
 #include <vector>
 using namespace std;
-
+/**
+ * @description: 
+ * @param {type} 
+ * @return: 
+ */
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
